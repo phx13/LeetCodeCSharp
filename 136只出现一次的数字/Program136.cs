@@ -35,6 +35,7 @@ namespace _136只出现一次的数字
         public static int SingleNumber(int[] nums)
         {
             //异或运算，a^a=0,a^0=a,满足交换律和结合律
+            //所以将数组中所有项异或，最终得到的数是结果
             int ret = 0;
             foreach (int e in nums) ret ^= e;
             return ret;
