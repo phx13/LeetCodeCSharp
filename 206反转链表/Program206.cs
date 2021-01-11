@@ -16,11 +16,56 @@ namespace _206反转链表
     {
         static void Main(string[] args)
         {
+            var l = new ListNode(1)
+            {
+                next = new ListNode(2)
+                {
+                    next = new ListNode(3)
+                    {
+                        next = new ListNode(4)
+                        {
+                            next = new ListNode(5)
+                            {
+                                next = null
+                            }
+                        }
+                    }
+                }
+            };
+            var res = ReverseList(l);
+            while (res != null)
+            {
+                Console.Write(res.val);
+                res = res.next;
+            }
+            Console.ReadKey();
         }
 
-        public ListNode ReverseList(ListNode head)
+        public static ListNode ReverseList(ListNode head)
         {
+            //迭代
+            ListNode prev = null;
+            ListNode cur = head;
+            while (cur != null)
+            {
+                ListNode nextNode = cur.next;
+                cur.next = prev;
+                prev = cur;
+                cur = nextNode;
+            }
+            return prev;
 
+            ////递归
+            //if (head == null || head.next == null)
+            //{
+            //    return head;
+            //}
+            //ListNode newHead = ReverseList(head.next);
+            
+            //head.next.next = head;
+            //head.next = null;
+
+            //return newHead;
         }
     }
 

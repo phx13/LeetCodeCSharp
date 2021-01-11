@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "136只出现一次的数字
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169多数元素", "169多数元素\169多数元素.csproj", "{9903C37C-A58A-49EC-980C-FFF758E49FDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021合并两个有序链表", "021合并两个有序链表\021合并两个有序链表.csproj", "{348277E4-8BB3-4A8F-AF69-B9AED96E33D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283移动零", "283移动零\283移动零.csproj", "{8895D00C-677D-4444-948E-98AC757CFDCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{9903C37C-A58A-49EC-980C-FFF758E49FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9903C37C-A58A-49EC-980C-FFF758E49FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9903C37C-A58A-49EC-980C-FFF758E49FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348277E4-8BB3-4A8F-AF69-B9AED96E33D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348277E4-8BB3-4A8F-AF69-B9AED96E33D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348277E4-8BB3-4A8F-AF69-B9AED96E33D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348277E4-8BB3-4A8F-AF69-B9AED96E33D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8895D00C-677D-4444-948E-98AC757CFDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8895D00C-677D-4444-948E-98AC757CFDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8895D00C-677D-4444-948E-98AC757CFDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8895D00C-677D-4444-948E-98AC757CFDCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
