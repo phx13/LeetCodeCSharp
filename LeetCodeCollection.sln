@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "021合并两个有序链表
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283移动零", "283移动零\283移动零.csproj", "{8895D00C-677D-4444-948E-98AC757CFDCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "448找到所有数组中消失的数字", "448找到所有数组中消失的数字\448找到所有数组中消失的数字.csproj", "{EA814C13-F81A-4FCD-BED3-7314CE591D43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "160相交链表", "160相交链表\160相交链表.csproj", "{D8E12D1F-93AA-4631-88EB-CE3EF9026172}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{8895D00C-677D-4444-948E-98AC757CFDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8895D00C-677D-4444-948E-98AC757CFDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8895D00C-677D-4444-948E-98AC757CFDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA814C13-F81A-4FCD-BED3-7314CE591D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA814C13-F81A-4FCD-BED3-7314CE591D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA814C13-F81A-4FCD-BED3-7314CE591D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA814C13-F81A-4FCD-BED3-7314CE591D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E12D1F-93AA-4631-88EB-CE3EF9026172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E12D1F-93AA-4631-88EB-CE3EF9026172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E12D1F-93AA-4631-88EB-CE3EF9026172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E12D1F-93AA-4631-88EB-CE3EF9026172}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
