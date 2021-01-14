@@ -51,8 +51,19 @@ namespace _094二叉树的中序遍历
         public static IList<int> InorderTraversal(TreeNode root)
         {
             var res = new List<int>();
-
+            Inorder(root, res);
             return res;
+        }
+
+        private static void Inorder(TreeNode root, List<int> res)
+        {
+            if (root == null)
+            {
+                return;
+            }
+            Inorder(root.left, res);
+            res.Add(root.val);
+            Inorder(root.right, res);
         }
     }
     public class TreeNode

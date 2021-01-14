@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "338比特位计数", "338�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "094二叉树的中序遍历", "094二叉树的中序遍历\094二叉树的中序遍历.csproj", "{78CD1BCE-58E0-4194-86B5-423E3D043BC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "048旋转图像", "048旋转图像\048旋转图像.csproj", "{956B7795-AF4F-42EF-8859-8E4A5D7552FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{78CD1BCE-58E0-4194-86B5-423E3D043BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78CD1BCE-58E0-4194-86B5-423E3D043BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78CD1BCE-58E0-4194-86B5-423E3D043BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{956B7795-AF4F-42EF-8859-8E4A5D7552FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{956B7795-AF4F-42EF-8859-8E4A5D7552FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{956B7795-AF4F-42EF-8859-8E4A5D7552FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{956B7795-AF4F-42EF-8859-8E4A5D7552FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
