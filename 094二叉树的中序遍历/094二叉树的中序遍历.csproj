@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4725BAD4-FF51-45EE-8069-498C73AD4C80}</ProjectGuid>
+    <ProjectGuid>{78CD1BCE-58E0-4194-86B5-423E3D043BC9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_020有效的括号</RootNamespace>
-    <AssemblyName>020有效的括号</AssemblyName>
+    <RootNamespace>_094二叉树的中序遍历</RootNamespace>
+    <AssemblyName>094二叉树的中序遍历</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program020.cs" />
+    <Compile Include="Program094.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

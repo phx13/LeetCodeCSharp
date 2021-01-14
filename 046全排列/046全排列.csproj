@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4725BAD4-FF51-45EE-8069-498C73AD4C80}</ProjectGuid>
+    <ProjectGuid>{BAB61CA3-E771-4C5A-95F4-1E589E95121A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_020有效的括号</RootNamespace>
-    <AssemblyName>020有效的括号</AssemblyName>
+    <RootNamespace>_046全排列</RootNamespace>
+    <AssemblyName>046全排列</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program020.cs" />
+    <Compile Include="Program046.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

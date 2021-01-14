@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4725BAD4-FF51-45EE-8069-498C73AD4C80}</ProjectGuid>
+    <ProjectGuid>{76999E39-AC09-46C3-B7A1-B19C34B2E962}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_020有效的括号</RootNamespace>
-    <AssemblyName>020有效的括号</AssemblyName>
+    <RootNamespace>_338比特位计数</RootNamespace>
+    <AssemblyName>338比特位计数</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program020.cs" />
+    <Compile Include="Program338.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
