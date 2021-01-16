@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "238除自身以外数组的
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "208实现Trie（前缀树）", "208实现Trie（前缀树）\208实现Trie（前缀树）.csproj", "{89A90FAF-4CDF-40BD-96F3-C5E411203905}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "096不同的二叉搜索树", "096不同的二叉搜索树\096不同的二叉搜索树.csproj", "{AF925894-D3CB-406A-BAEE-59828731369D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{89A90FAF-4CDF-40BD-96F3-C5E411203905}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89A90FAF-4CDF-40BD-96F3-C5E411203905}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89A90FAF-4CDF-40BD-96F3-C5E411203905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF925894-D3CB-406A-BAEE-59828731369D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF925894-D3CB-406A-BAEE-59828731369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF925894-D3CB-406A-BAEE-59828731369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF925894-D3CB-406A-BAEE-59828731369D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
