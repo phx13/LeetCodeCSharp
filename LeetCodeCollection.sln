@@ -71,6 +71,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "208实现Trie（前缀树�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "096不同的二叉搜索树", "096不同的二叉搜索树\096不同的二叉搜索树.csproj", "{AF925894-D3CB-406A-BAEE-59828731369D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "105从前序与中序遍历序列构造二叉树", "105从前序与中序遍历序列构造二叉树\105从前序与中序遍历序列构造二叉树.csproj", "{DF9F6F87-611E-42F1-8BD2-73A473FDFED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064最小路径和", "064最小路径和\064最小路径和.csproj", "{069CA1D5-1A84-44C4-85FE-A668278912DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "148排序链表", "148排序链表\148排序链表.csproj", "{CAB5D69C-818C-4129-8F5B-5F9AB6173FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287寻找重复数", "287寻找重复数\287寻找重复数.csproj", "{DB4A09B3-F852-492F-B0CF-A048C0066512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +221,22 @@ Global
 		{AF925894-D3CB-406A-BAEE-59828731369D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF925894-D3CB-406A-BAEE-59828731369D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF925894-D3CB-406A-BAEE-59828731369D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9F6F87-611E-42F1-8BD2-73A473FDFED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9F6F87-611E-42F1-8BD2-73A473FDFED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9F6F87-611E-42F1-8BD2-73A473FDFED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9F6F87-611E-42F1-8BD2-73A473FDFED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069CA1D5-1A84-44C4-85FE-A668278912DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069CA1D5-1A84-44C4-85FE-A668278912DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069CA1D5-1A84-44C4-85FE-A668278912DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069CA1D5-1A84-44C4-85FE-A668278912DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB5D69C-818C-4129-8F5B-5F9AB6173FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB5D69C-818C-4129-8F5B-5F9AB6173FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB5D69C-818C-4129-8F5B-5F9AB6173FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB5D69C-818C-4129-8F5B-5F9AB6173FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
