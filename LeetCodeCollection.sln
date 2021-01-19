@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "148排序链表", "148排�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "287寻找重复数", "287寻找重复数\287寻找重复数.csproj", "{DB4A09B3-F852-492F-B0CF-A048C0066512}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "236二叉树的最近公共祖先", "236二叉树的最近公共祖先\236二叉树的最近公共祖先.csproj", "{9AA1CB24-59FA-42AA-9E4F-E6D0647D75FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB4A09B3-F852-492F-B0CF-A048C0066512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA1CB24-59FA-42AA-9E4F-E6D0647D75FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA1CB24-59FA-42AA-9E4F-E6D0647D75FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA1CB24-59FA-42AA-9E4F-E6D0647D75FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA1CB24-59FA-42AA-9E4F-E6D0647D75FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
