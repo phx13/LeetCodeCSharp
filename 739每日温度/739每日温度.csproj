@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0CC6AD8-86F5-4A40-838D-CCC23E30480D}</ProjectGuid>
+    <ProjectGuid>{A40FBA4A-AAFF-4DBB-A473-C85EDA8A9EDA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_121买卖股票的最佳时机</RootNamespace>
-    <AssemblyName>121买卖股票的最佳时机</AssemblyName>
+    <RootNamespace>_739每日温度</RootNamespace>
+    <AssemblyName>739每日温度</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program121.cs" />
+    <Compile Include="Program739.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

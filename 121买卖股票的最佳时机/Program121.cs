@@ -26,7 +26,7 @@ namespace _121买卖股票的最佳时机
     //输出: 0
     //解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
 
-    class Program
+    class Program121
     {
         static void Main(string[] args)
         {
