@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CB1AE239-6010-4AF1-97E9-883EF05DDEC1}</ProjectGuid>
+    <ProjectGuid>{F5CACE7F-E92C-490B-9378-C738093D9A6C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_337打家劫舍III</RootNamespace>
-    <AssemblyName>337打家劫舍III</AssemblyName>
+    <RootNamespace>_279完全平方数</RootNamespace>
+    <AssemblyName>279完全平方数</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program337.cs" />
+    <Compile Include="Program279.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

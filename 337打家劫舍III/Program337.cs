@@ -42,7 +42,8 @@ namespace _337打家劫舍III
         }
         public static int Rob(TreeNode root)
         {
-
+            var res = DFS(root);
+            return Math.Max(res[0], res[1]);
         }
         public static int[] DFS(TreeNode node)
         {
